@@ -7,9 +7,9 @@
     tools:context=".ListActivity">
 
     <androidx.recyclerview.widget.RecyclerView
-        android:id="@+id/recyclerView"
+        android:id="@+id/rv"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        tools:layout_editor_absoluteX="242dp"
-        tools:layout_editor_absoluteY="373dp" />
+        tools:layout_editor_absoluteX="129dp"
+        tools:layout_editor_absoluteY="266dp" />
 </androidx.constraintlayout.widget.ConstraintLayout>
